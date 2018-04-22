@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1" lry="1">
+         <graphic url="Pages/002-003.png"/>
+         <zone xml:id="p002" ulx="0" uly="0" lrx="0.5" lry="1.0"/>
+         <zone xml:id="p003" ulx="0.5" uly="0" lrx="1.0" lry="1.0"/>         
+      </surface>
+      <surface ulx="0" uly="0" lrx="1" lry="1">
+         <graphic url="Pages/004-005.png"/>
+         <zone xml:id="p004" ulx="0" uly="0" lrx="0.5" lry="1.0"/>
+         <zone xml:id="p005" ulx="0.5" uly="0" lrx="1.0" lry="1.0"/>         
+      </surface>
+   </facsimile>
+  <text>
+      <body>
+         <pb facs="#p002"/><p>Text of page 2 here</p>
+         <pb facs="#p003"/><p>Text of page 3 here</p>
+         <pb facs="#p004"/><p>Text of page 4 here</p>
+         <pb facs="#p005"/><p>Text of page 5 here</p>
+      </body>
+  </text>
+</TEI>
