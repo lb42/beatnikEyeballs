@@ -30,9 +30,9 @@
    </facsimile>
   <text>
       <body>
-         <pb facs="#p002"/><p>Text of page 2 here</p>
-         <pb facs="#p003"/><p>Text of page 3 here</p>
-         <pb facs="#p004"/><p>Text of page 4 here</p>
+         <pb facs="#p002"/><p>Text of page 2 here.
+	  <pb facs="#p003"/>Text of page 3 </p><p>he
+         <pb facs="#p004"/>re and text of page 4 here</p>
          <pb facs="#p005"/><p>Text of page 5 here</p>
       </body>
   </text>
