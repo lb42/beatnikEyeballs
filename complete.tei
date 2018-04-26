@@ -61,7 +61,7 @@ THROUGH BIG CHIEFS EYEBALLS 71</p>
 
 </div><pb n="[4]"/>
    <pb n="5"/>
-    <div><head >GLOSSARY
+    <div type="liminal" subtype="narrator"><head >GLOSSARY
 For Bods From Squaresville</head>
 <list><item><label>Barrelhouse</label> — a disreputable place.
 </item><item><label>Bashville</label>— a place for shy. bashful people.
@@ -232,9 +232,9 @@ by gangs.
 </item><item><label>Z's (pile up the Z’s)</label> — take some rest, sleep.
 </item></list>
 </div></front>
-    <pb n="13"/><body><div type="part"><head>PART ONE</head>
+    <pb n="13"/><body><div type="part" subtype="femaleVoice"><head>PART ONE</head>
 <head>Through Fenella’s Eyeballs</head>
-<div><head >Chapter One</head>
+<div type="chapter"><head >Chapter One</head>
 <p>I GOT to admit it. I'm a clinker from way out, strictly
 heading for nowhere. I living in this lone pad up the City.
 I not a regular beatnik or nothing, but sometimes J do
@@ -261,13 +261,13 @@ unborn.</p>
 dicty like I higher up the ladder, but unless you got 
 religion or something you really got no place to gel to. No
 wonder you grovel after making bread, give filthy 
-lovesigns, and soak the juice. If barmen wasn’t so keen on
+love-signs, and soak the juice. If barmen wasn’t so keen on
 their green stuff they'd belt peoples away before they got
 really soaked Likewise all them which do sell love-signs.
 They act plenty tempting and lure many guys to 
 Smutsville.</p>
 <p>Bread should plainly be done away with. It the cause
-of many evils. Me. I'd flip to see the crummy debutantes
+of many evils. Me, I'd flip to see the crummy debutantes
 selling pegs for their supper. Not that I'm mightly poor
 or anything but I sees no need for these dicty folk having
 more than the poor freap with the wooden leg. It really
@@ -308,7 +308,7 @@ below my duffle coat Much times I do stop to sit on
 dustbins or pillar-boxes, maybe till the Law reach the scene.</p>
 <pb n="16"/>
 </div>
-    <div><head >Chapter Two</head>
+    <div type="chapter"><head >Chapter Two</head>
 <p>I GUESS you could call me a lone beat. I mean I
 reckons some people the most, but do prefer to orbit solo
 plenty often. I done tried to lose my feelings but they still
@@ -359,7 +359,7 @@ throw darts and draw animal pictures on the wall, and
 finally dismissed me as shy but otherwise normal. Big
 deal! I all out to drop that shyness tag along the way.</p>
 <pb n="18"/>
-</div><div><head >Chapter Three</head>
+</div><div type="chapter"><head >Chapter Three</head>
 <p>HAD me no turf-mates. The manor reckoned I was dicty
 and let me be. Played me my own games and took the
 belly-racks only for so long. Then zoots, I let fly. Ravaged
@@ -388,7 +388,7 @@ plainly realise this be a psychological reaction. Them
 <pb n="19"/>
 which do get bullied likewise got to bully others, or some
 such rot.</p>
-</div><div><head >Chapter Four</head>
+</div><div type="chapter"><head >Chapter Four</head>
 <p>WHEN I were a young broad I did clearly reckon that I
 was heaven-bound. Like I mean I felt so mighty good
 and angel-type, they got to kill me so’s I get there quick.
@@ -410,7 +410,7 @@ like I been taught, so’s I would have to leave them and
 head for Heaven, cos it be wrong to take anything with
 you. I definitely not want this world to end—truly I didn’t.
 <pb n="20"/>
-</p></div><div><head >Chapter Five</head>
+</p></div><div type="chapter"><head >Chapter Five</head>
 <p>MOMS did start me off in some crazy school where they
 got a fine old stud for Headmaster. He gentle and kind
 and going to give me one whole chance. I had a plainly
@@ -428,7 +428,7 @@ all. Fact is, they done scared me of studs by their crazy
 talk. How they want me to get mated legal when I 
 somehow got this dirty feeling about it? True, I now knows it
 be not dirty, but I still remains plainly scared of it.
-</p></div><div><head >Chapter Six</head>
+</p></div><div type="chapter"><head >Chapter Six</head>
 <p>NOW time come for me to start at senior school. I’m
 clearly a dunce except for figures which I adds plenty well.
 <pb n="21"/>
@@ -467,7 +467,7 @@ been my favourite witch for all time.</p>
 <p>Did strike me as a shame that it be not possible to
 marry them of your own sex, and I plainly cool off her
 when she marry some hipster.
-</p></div><div><head >Chapter Seven</head>
+</p></div><div type="chapter"><head >Chapter Seven</head>
 <p>GOT me a movie bug and spent plenty time there living
 the parts. I reckoned many film stars—both studs and
 witches—they plainly my ideal.</p>
@@ -545,7 +545,7 @@ always trying to peck at you all the time. They got about
 five pairs of hands each, likewise. Patter be definitely
 about studs more than anything else right now.
 <pb n="25"/>
-</p></div><div><head >Chapter Eight</head>
+</p></div><div type="chapter"><head >Chapter Eight</head>
 <p>SOON after I quit school I took me a vacation, before I
 starts working in that bottle factory. There I met me the
 first stud I ever done liked. He just used to swing with
@@ -618,7 +618,7 @@ lost my interest in stuff again. It all come back. But
 Gaffer! By the times I back in orbit, everyone I did
 reckon seems to be plainly keeping to a different manor.
 They even moved me to some way out different factory.
-</p></div><div><head >Chapter Nine</head>
+</p></div><div type="chapter"><head >Chapter Nine</head>
 <p>NOW I’m seventeen. Yet here I be without no ties—
 ready to start way back all over again. This new factory
 highly blacken me. They got it right into me and tell me
@@ -690,7 +690,7 @@ I feels real high, like that Sun got to be shining twice as
 bright. Little things like that cheer me no end. I knows
 they never going to get me nowhere but the kick was 
 present and that be highly promising.
-</p></div><div><head >Chapter Ten</head>
+</p></div><div type="chapter"><head >Chapter Ten</head>
 <p>TIME I like is night. When we done had some rain and
 all them streets is wet and shiny. Street lamps reflect
 yellow in all them puddles, while stars is peeping out
@@ -811,7 +811,7 @@ witches who been not willing, would plainly have
 dislocated that middle-ager’s arm But me. Negative. I just
 sits there, allowing him, all froze up.</p>
 <p>I this one great clinker and that real tough for me.
-</p></div><div><head >Chapter Eleven</head>
+</p></div><div type="chapter"><head >Chapter Eleven</head>
 <p>MY brain keep returning to the past and all. Sometimes
 would get me real raw moods, remembering how I done
 never had a chance, what with being spoilt and such.
@@ -834,7 +834,7 @@ stud younger than me. This because I feels capable of
 dealing with him. It so happen I meet such a stud when
 I goes walking one day, but something still make me 
 refuse. I plainly the shy type where studs is concerned.
-</p></div><div><head >Chapter Twelve</head>
+</p></div><div type="chapter"><head >Chapter Twelve</head>
 <p>NOW back the factory I been stirring plenty trouble for
 myself. It seem I been coming late, doing little, and even
 playing scat much times. Got to get me my kicks some
@@ -863,7 +863,7 @@ proved to me I made no headway nothing-wise.</p>
 eighteen, yet I only had me one lousy date, got me no regular
 mates to speak of, nothing I plenty enjoys doing, and
 most times just unable to give gloom the go-by.
-</p></div><div><head >Chapter Thirteen</head>
+</p></div><div type="chapter"><head >Chapter Thirteen</head>
 <p>NOW I take this vacation with moms and pops for short
 while. This when I meet some fair Beatniks who tell me
 they orbit the coast come summer all time. I just sort of
@@ -923,7 +923,7 @@ tell her I done met a crowd who going to take me up.
 She not worry her fuse-box ’cos she know we going back
 our pad come week-end. Got me 3 days to eyeball they
 gassers.
-</p></div><div><head >Chapter Fourteen</head>
+</p></div><div type="chapter"><head >Chapter Fourteen</head>
 <p>DREAMSVILLE not come easy that night. Keeps getting
 madmen bursts of elation just as I about to goof off.
 Just lies there shaking and mighty high, thinking how
@@ -1059,7 +1059,7 @@ brisk walk.” She plainly ready to nod off any second so
 she leave it on that. I head for bed and that’s it. I’m in
 Dreamsville. Danger’s past. I just a soul at rest and all
 that rot.
-</p></div><div><head >Chapter Fifteen</head>
+</p></div><div type="chapter"><head >Chapter Fifteen</head>
 <p>COME the end of our vacation we just naturally 
 returned to our pad. Things were just the same. All my
 crazy oil paint signs stashed away in a corner.</p>
@@ -1103,7 +1103,7 @@ pad plenty often. Then I gets this madmen mood and
 <pb n="45"/>
 takes a lone flat. Now I going to be a real beat. Going
 to knock convention at every turn.
-</p></div><div><head >Chapter Sixteen</head>
+</p></div><div type="chapter"><head >Chapter Sixteen</head>
 <p>BEFORE I been up my new pad long I rave into the
 crowd I done met on vacation. They naturally recalled
 me and come over to patter.</p>
@@ -1157,7 +1157,7 @@ lovers’ bundles before, cos they soon forget the event.</p>
 <pb n="47"/>
 pad. Goof it off. That’s another night gone. Still feels
 like I a mean, lone soul deep down.
-</p></div><div><head >Chapter Seventeen</head>
+</p></div><div type="chapter"><head >Chapter Seventeen</head>
 <p>NOW I plainly sees that crowd from time to time, even
 that stud who mainly give me the igg. But like I already
 done said I orbits alone much times.</p>
@@ -1240,7 +1240,7 @@ yet they going to talk space-ship rather than witches.</p>
 oil paint signs, eyeballs the kids and come evenings rave
 with them beat gassers to some frolic-pad.
 <pb n="50"/>
-</p></div><div><head >Chapter Eighteen</head>
+</p></div><div type="chapter"><head >Chapter Eighteen</head>
 <p>ONE time we did land at this genuine barrel-house. A
 wayout stud sending his buzz-tone high into orbit. 
 Another guy belting his joy-box in plenty rhythm. The whole
@@ -1261,7 +1261,7 @@ this barrel-house one lump of bread, but I has to rave
 some place and nothing serious being done so’s I take it
 in.
 <pb n="51"/>
-</p></div><div><head >Chapter Nineteen</head>
+</p></div><div type="chapter"><head >Chapter Nineteen</head>
 <p>SOMETIMES gets me deep in Dreamsville at night,
 when, wham! I catch this nasty little nightmare. Jerk
 awake shaking sweat busting out on me. It’s like I
@@ -1316,7 +1316,7 @@ interested so’s the leader-stud agree to take me, but we first
 decides it going to be strictly platonic. No madmen 
 lovesigns or anything.
 <pb n="53"/>
-</p></div><div><head >Chapter Twenty</head>
+</p></div><div type="chapter"><head >Chapter Twenty</head>
 <p>COME this night we take the locomotive to the jazz club.
 We not dragged too crazy, ’cos the chance is the 
 management not going to admit bare feet and nightshirts. The
@@ -1418,7 +1418,7 @@ there, yet I’m glad he ain’t.</p>
 <p>Glad he taking things slow-like, ’cos that's the way it’s
 got to be. Hit my pillow and straightway I black out,
 lose the happenings in Dreamsville.
-</p></div><div><head >Chapter Twenty-One</head>
+</p></div><div type="chapter"><head >Chapter Twenty-One</head>
 <p>WHEN I comes to next a.m. I gives plenty time to my
 thoughts. Then suddenly rambling on like nobody’s 
 business. Got this madmen urge to get out on the turf. walk
@@ -1561,7 +1561,7 @@ light and sets to my bed-chamber.</p>
 <p>I feels mighty wicked goofing off with a stud right in the
 next room. But I got the instinct he a gasser from way
 out. I waste no more time. Nods off real quick.
-</p></div><div><head >Chapter Twenty-two</head>
+</p></div><div type="chapter"><head >Chapter Twenty-two</head>
 <p>FIRST thing I know next a.m. he’s brought me in this
 tea and toast and all. How nice! “I mighty sorry I went
 to Dreamsville on you last night,” he say. “You should
@@ -1621,7 +1621,7 @@ should be locked up.”</p>
 <p>I shaking plenty as I reach my pad. It’s like I’m half
 crying and all. Don’t know what hit me. I getting so’s I
 don’t know what I going to do next.
-</p></div><div><head >Chapter Twenty-three</head>
+</p></div><div type="chapter"><head >Chapter Twenty-three</head>
 <p>I NOT been back my pad long when Moms up at me to
 earn some green stuff. She fair near had an attack when
 she see my weird drag and all She inform me at once,
@@ -1729,7 +1729,7 @@ or something, so’s I give her the go-by. Them old witches
 got a mighty large clinker on them, Still she made her
 point. I even got this nasty feeling about it when I trying
 to goof off last thing.
-</p></div><div><head >Chapter Twenty-four</head>
+</p></div><div type="chapter"><head >Chapter Twenty-four</head>
 <p>I HAD this tough time for some months when I did give
 it the go-by. I got a new brain, it seem. Like I got 
 cast-iron resistance. ’Cos I know now I never going to 
@@ -1788,11 +1788,11 @@ all along.</p>
 live. But it’s like I’m heading in no direction. Orbit strictly
 unknown. Destination nowhere!</p></div>
 </div>
-<div>
+<div type="part" subtype="maleVoice">
 <pb n="71"/>
 <head>PART TWO</head>
 <head>Through Big Chief’s Eyeballs</head>
-<div><head >Chapter One.</head>
+<div type="chapter"><head >Chapter One.</head>
 <p>IT seem I been here plenty long. I recall years and years
 of things I done and all. It were tough for me I had no
 Pops ever. I mean he were present once, but I never 
@@ -1833,7 +1833,7 @@ legal, and then it strictly for the purpose of raising a
 madmen family. I dropped many a clinker with my
 strange brain-users way back my teens.
 <pb n="73"/>
-</p></div><div><head >Chapter Two</head>
+</p></div><div type="chapter"><head >Chapter Two</head>
 <p>NOW I’ll tell you straight, there were one thing I been
 dreading right the way up. I screwed up total at the
 thought of going in the Array and all. Now I no 
@@ -1864,7 +1864,7 @@ I got me these cube gassers who plainly as dicty as me.
 We give them big bad studs the igg. We reckon our little
 games of football when all that mud be squelching at you
 like nobody’s business. I were even quite a hipster at it.
-</p></div><div><head >Chapter Three</head>
+</p></div><div type="chapter"><head >Chapter Three</head>
 <p>I RECALLS this chick who shook me up all round the
 manor. She a living doll of nine years. I guess I had the
 same age on me, and were a mighty skinny young freap
@@ -1893,7 +1893,7 @@ for the angel-band. This is soft lie.</p>
 she hardly knew what sin was. I mean, I reckon there be
 no need for a Saviour if peoples be as good as she make
 out.
-</p></div><div><head >Chapter Four</head>
+</p></div><div type="chapter"><head >Chapter Four</head>
 <p>WHEN I quit that private dive and set off in Lessonsville
 Senior I got one madmen shock after another. Damn near
 flipped my fuse-box.</p>
@@ -1911,14 +1911,14 @@ Glitterville.</p>
 Got me some wide patter what Moms never heard 
 before. At first I not really dig what my patter mean, but I
 <pb n="16"/>
-plainly knows it do come from Curseville, and this send	1</p>
-<p>me flipping. I soon think I a big bad stud and even act	1</p>
-<p>mighty dicty with it. I throw the bull-jive round and talk 1
-scat with the gassers.	1</p>
-<p>Soon I start lumbering this witch. I got Fourteen years |
-on me, and an eyeball full of goo for a pretty chick.	*</p>
-<p>Mind you, I still not know what it were all about, till
-one time Moms call in the kitchen. “Son,” she address \'i
+plainly knows it do come from Curseville, and this send	
+me flipping. I soon think I a big bad stud and even act	
+mighty dicty with it. I throw the bull-jive round and talk
+scat with the gassers.	</p>
+<p>Soon I start lumbering this witch. I got Fourteen years 
+on me, and an eyeball full of goo for a pretty chick.
+Mind you, I still not know what it were all about, till
+one time Moms call in the kitchen. “Son,” she address 
 me. “I going to clue you in to them Birds and Bees,”
 or patter to that effect.</p>
 <p>She imagine she given me the total gen on the subject,
@@ -1936,12 +1936,9 @@ play the cube.</p>
 <p>Now it appear this witch I been lumbering, intend to
 double the entire population of Studsville. My mates belly
 rack when I claim to be flying with her one night.</p>
-<p>/</p>
-<p>“You not know which. side her fuse-box to kiss,</p>
-<p>,	v</p>
-<p>Freap,” they jive me. I give these funny men the igg and |
-set my sights on the time ahead. Truth is I screwed up cos I</p>
-<p>£
+<p>“You not know which side her fuse-box to kiss,
+Freap,” they jive me. I give these funny men the igg and |
+set my sights on the time ahead. Truth is I screwed up cos 
 <pb n="77"/>
 this is my first double, but my squaw clearly not the shy
 type, and clue me in date-wise.</p>
@@ -1961,7 +1958,7 @@ the manor. My gentle feet scarce touch the turf as 1
 orbit pad-wise. My sweet soul taking a soft trip to the
 Moon. Dreamsville take over and I give in ’cos I knows
 I going to get strictly rave dreams.
-</p></div><div><head >Chapter Five</head>
+</p></div><div type="chapter"><head >Chapter Five</head>
 <p>NOW it blacken me considerably to return to 
 Lessonsville and find my lady-witch lumbering this way out cat
 with gooey eyeballs. I catch her aside. “Gentle squaw, I
@@ -1980,7 +1977,7 @@ time, Daddy,” she tell me. “You lacking in goo like it
 given you the go-by.” I’m softly choked at her patter and
 it were plenty long before I done dated one of them 
 witch-faces again.
-</p></div><div><head >Chapter Six</head>
+</p></div><div type="chapter"><head >Chapter Six</head>
 <p>COME my fifteenth year I naturally quit Lessonsville
 total.</p>
 <p>Took me this apprentice-lad job, printing and such. I
@@ -2054,7 +2051,7 @@ all them deep down brain-users way over.</p>
 she give them a jam trail to follow. Then when they take
 <pb n="81"/>
 the bait she shoot her mouth off at them. I no fancy 
-headdoctor but I guess her Moms be at fault somewhere.</p>
+head-doctor but I guess her Moms be at fault somewhere.</p>
 <p>When I’m a Pops I going to be mighty careful how I
 do clue my kids in on stuff. Once you get these little
 clinkers on you, you not throw them off easy. Like with
@@ -2063,7 +2060,7 @@ as Mom’s told me. Got me these high-up angel visions,
 when I plainly never going to orbit with an angel.</p>
 <p>Guess that blackened clinker keeping me from having a
 ball.
-</p></div><div><head >Chapter Seven</head>
+</p></div><div type="chapter"><head >Chapter Seven</head>
 <p>I USED to do these crazy things all the time, which Mom
 was none too hot for. I got me this one mate who suited
 me fine. He plenty hate witches, different to me, cos I
@@ -2085,7 +2082,7 @@ touching us and all, and it were like you only got to
 extend our hand and you going to catch plenty star-dust. !
 always reckoned trees plenty, and we even used to get our
 cans way up in them branches. Swung us about 
-Tarzanwise like we fair near owned them leaf-tops.</p>
+Tarzan-wise like we fair near owned them leaf-tops.</p>
 <p>My mate never patter much about himself. I not even
 know what his Pops work at but he evidently got some
 clinker on him. Cos often we'd be far in Dreamsville,
@@ -2112,7 +2109,7 @@ how Moms taught me to treat lady-witches. This be highly
 scat, likewise strictly for the sparrows, cos Moms been
 proved wrong. Why I still screw up at witch-sellers and
 all?
-</p></div><div><head >Chapter Eight</head>
+</p></div><div type="chapter"><head >Chapter Eight</head>
 <p>THE clinker with most witches is they thinks of 
 themselves total. It’s like they the queen of the land. 
 Bellyrack! They could well claim to be the queen of 
@@ -2135,7 +2132,7 @@ Witches is bull-crazy from way back. Likewise bulls be
 soft witch-hunters. That the way it is. That the way it got
 to be.</p></div>
    <pb n="84"/>
-   <div><head>Chapter Nine</head>
+   <div type="chapter"><head>Chapter Nine</head>
 <p>NOW come this certain time I even bust me my leg. Needs
 got me to Germsville. I had me one high lime in there. I
 done expected this soft choke but even obtained me many
@@ -2152,16 +2149,16 @@ black out and lose the happenings till a.m. come.</p>
 <p>I got to pattering with this little chap who were my
 temporary turf-mate. He having his belly bust open or
 something, and they give him this madmen pair of long
-socks to draa into before he catch the blade. He sot this
+socks to drag into before he catch the blade. He sot this
 pretty squaw calling on him most times which softly choke
 me. Still I keep eyeballing that lady-nurse I been jiving
-about. She got blue eyballs which give flashes just like
+about. She got blue <sic>eyballs</sic> which give flashes just like
 madmen torches and all. It be her pleasure to lead me
 round Germ Manor. She keep telling me not to lean so
 heavy on her, but I clutch that lady like she strictly the
 end.</p>
 <p>One time she jive at me real zooty. “You’ve got a
-<pb n="84"/>
+<pb n="85"/>
 lovely cuddle,” she tell me in that Irish voice-box. This
 clearly shake me up. Them Irish voices kind of twist their
 way into your soul and all. Or maybe it were just because
@@ -2227,7 +2224,7 @@ and all. But this could not be.</p>
 the igg. It enhanced gentle Moms to have me back. Truly
 it did. Cos she been getting mighty graffy while I been
 inside.
-</p></div><div><head >Chapter Ten</head>
+</p></div><div type="chapter"><head >Chapter Ten</head>
 <p>STILL got to rest that leg effort short time so’s I let the
 time roll by. Don’t do much at all. Just gets to thinking
 and all. Recalls that way back senior school I went to.
@@ -2294,7 +2291,7 @@ games cupboard and starts busting at them leaves. Even
 throws a couple of balls up there. Tough for me that
 blackened bat did catch itself way up them twig-tops.
 Just one more detention for the clinker of Lessonsville.</p>
-<p>Fd start bugging them master-men all the time with my
+<p>I'd start bugging them master-men all the time with my
 bull-jive. I even got to asking this lady-teacher for a
 double—just for the belly-rack, you understand. She
 slammed me down like nobody’s business. But there was
@@ -2305,7 +2302,7 @@ wild eyeball at me?</p>
 <p>Seems like those days gone real far away now—like
 they never were.
 <pb n="90"/>
-</p></div><div><head >Chapter Two</head>
+</p></div><div type="chapter"><head >Chapter Two</head>
 <p>NOW I gets back into orbit real fast. Back to work.
 Wham! Back to my turf-mates, We gets to skating now
 and again. This a real zooty pass-time I reckons. Catch
@@ -2364,7 +2361,7 @@ she replying. I get might graffy at the happenings cos I
 not like his looks one lump of bread.
 <pb n="92"/>
 When my sister-face see me she get this scarey look on
-her, like she feeling guilty and all.She don’t jive at him
+her, like she feeling guilty and all. She don’t jive at him
 no more, just give his patter the igg.</p>
 <p>Now I naturally ask her where he rave from and what
 kind of a gasser he claim to be. She silent on that short
@@ -2419,7 +2416,7 @@ of her and all.</p>
 on and yet. . . . It’s like they done turned themselves on
 and all.
 <pb n="94"/>
-</p></div><div><head >Chapter Twelve</head>
+</p></div><div type="chapter"><head >Chapter Twelve</head>
 <p>CATCH my sister next a.m. and plainly tell her I reckon
 she a big bad clinker. She belly-rack at me when I tell
 her what I eyeballed. “Gentle Brother,” she tell me. ‘Tm
@@ -2457,7 +2454,7 @@ really, but I kind of needs a butt right now so I hand
 out the bread for some.</p>
 <p>After short while these two guys enter and before long
 patter at me. “You out of work too, honey?” this 
-quakylooking stud with a beard ask me. I tell him I soon will
+quaky-looking stud with a beard ask me. I tell him I soon will
 be, cos I just given it the go-by. Now although I bitter
 at my sister and all I never going to tell folk the reason
 I leaving my pad. So I thinks this scatty story up how I
@@ -2469,7 +2466,7 @@ going to catch us at neither.”</p>
 <p>I not wait to ear the shady brain-users but gets my can
 to the door like I can’t wait. Spends the entire day 
 marching the manor, kicking stones, and glutting madmen 
-lettuce leaves I caueht off this little stall.</p>
+lettuce leaves I caught off this little stall.</p>
 <p>Got me a mighty blackened mood like Satan had me. It
 so happen I see’d this little cycle standing at the kerb,
 like nobody ever going to use it again. That’s a lie, ’cos
@@ -2490,7 +2487,7 @@ it.</p>
 <p>Going to get me to a twist-up tonight. Going to swing
 my can far into the morning. Yeah! Going to have me a
 zooty ball.
-</p></div><div><head >Chapter Thirteen</head>
+</p></div><div type="chapter"><head >Chapter Thirteen</head>
 <p>WE got this big ballroom plenty near the pad, which I
 been to several times. I go solo that night, you 
 understand. Soon as I gets there, catch these enlivened witches
@@ -2504,7 +2501,7 @@ in too easy. Most studs reckon dames is for trampling on,
 strictly doormats. They thinks they can take jam 
 whenever they wants it. That’s what I blackened at. I choke
 to think my sister get discussed in this free-balling manner
-by them inhabitants of Smutsvilie. She should keep herself
+by them inhabitants of Smutsville. She should keep herself
 for a gasser-guy who going to mate her legal.</p>
 <p>Guess peoples got different reasoning though. Anyways,
 if I was a chick-face I’d find no trouble in keeping clear,
@@ -2545,12 +2542,12 @@ that lady plenty time to catch a hundred breaths, then get
 her to the floor.</p>
 <p>Lights dim as we get in there. Band be giving with this
 slow drag. My mood were total gone.</p>
-<p>I palter this lady and tell her I more than willing to
+<p>I patter this lady and tell her I more than willing to
 lead her to her pad. She refuse, and tell me she already
 got a wheel which she drive herself home in. This shake
 me. She must be a mighty high-class dame to own a wheel
 Maybe she a green stuff heir.</p>
-<p>She tel] me real cool-like she waiting on this stud who
+<p>She tell me real cool-like she waiting on this stud who
 playing ball in the Army at present. That’s fine! She got
 all she need without me. Yet I content just to eyeball her,
 ’cos a cat can always dream.</p>
@@ -2586,46 +2583,45 @@ touch me, like I don’t know nobody, got no past, no
 future, just the present.</p>
 <p>My brain catching weird users now, cos I kind of wish
 I could really get in orbit, not just kick-wise, you 
-undersand, but really riding them stars. It could be highly
+<sic>undersand</sic>, but really riding them stars. It could be highly
 stimulating way out by yourself in that space-face.</p>
 <p>I nearly miss my gentle-heart busting out the door, then,
 <pb n="100"/>
-and jerk to life. She heading for this wheel-park where her	1</p>
-<p>shiny locomotive be standing solo at the far end. The	1</p>
-<p>doll must be loaded. Bread near dripping off her fingers,	i</p>
-<p>’cos this wheel she got look like it cost plenty loaves of	*1</p>
-<p>bread. Got (his stylish bonnet and way out wind-screen. 1
-I pick my heels up and chase her can. Kind of tensed r I
-up now, ’cos there’s just these two frames in all that ■ 1
-wheel-park. Me and her. That’s the entire list.	I</p>
-<p>She nearly at her wheel, just ready to open up, when 1
-she eyeball my head. She get these fancy lenses out her |
-drag and nick them to her face. She still look zootv with 1</p>
-<p>i.W</p>
-<p>lenses on and all, though more aloof, you understand. J
-“What you want?” she address me. “I kind of won- M
-dcred if you got a lift in mind,”	I tell her. “Sorry,”	she	1</p>
-<p>reply, “I’m sad to say I travel	in the other direction.”	a</p>
-<p>Now this blacken me, ’cos I never done told her what	J</p>
-<p>direction I live at. She evidently giving me the go-by	S</p>
-<p>total.	M</p>
-<p>“Lady, I’m hung on you. I knows you waiting on a cat, jg
+and jerk to life. She heading for this wheel-park where her	
+shiny locomotive be standing solo at the far end. The	
+doll must be loaded. Bread near dripping off her fingers,	
+’cos this wheel she got look like it cost plenty loaves of	
+bread. Got this stylish bonnet and way out wind-screen. 
+I pick my heels up and chase her can. Kind of tensed
+up now, ’cos there’s just these two frames in all that
+wheel-park. Me and her. That’s the entire list.</p>
+<p>She nearly at her wheel, just ready to open up, when
+she eyeball my head. She get these fancy lenses out her
+drag and nick them to her face. She still look zooty with
+lenses on and all, though more aloof, you understand.</p><p>
+“What you want?” she address me. “I kind of wondered 
+if you got a lift in mind,”	I tell her. “Sorry,”	she	
+reply, “I’m sad to say I travel	in the other direction.”</p>
+<p>Now this blacken me, ’cos I never done told her what
+direction I live at. She evidently giving me the go-by
+total.</p>
+<p>“Lady, I’m hung on you. I knows you waiting on a cat,
 but be it wrong to let me lumber you, love-heart?” I say.</p>
-<p>“I don’t even like you,” she	tell me plainly, and	my	l</p>
-<p>gentle heart seem to cry. I lay	down my head for	this	s</p>
-<p>broad, yet she not reckon I any place near there.	j</p>
-<p>I get this madmen urge to rush her, kiss them lips, ’cos	*;</p>
-<p>I know’d her little frame going to haunt my brain long- J
-time. I catch her to me. For one moment I got a handful }
-of furry drag clutched to me. Then she wriggle inside it ;j
-and slap me down. I not attempting a jam-raid so’s	[</p>
-<p>leave her be. She plainly got the right to beat me off.	]
+<p>“I don’t even like you,” she	tell me plainly, and my
+gentle heart seem to cry. I lay	down my head for this 
+broad, yet she not reckon I any place near there.</p>
+<p>I get this madmen urge to rush her, kiss them lips, ’cos
+I know’d her little frame going to haunt my brain longtime. 
+I catch her to me. For one moment I got a handful
+of furry drag clutched to me. Then she wriggle inside it
+and slap me down. I not attempting a jam-raid so’s I
+leave her be. She plainly got the right to beat me off.</p>
 <pb n="101"/>
-She grab her wheel open and get that engine moving
+<p>She grab her wheel open and get that engine moving
 mighty fast. Damn near run me down in her hurry to
 quit the scene.</p>
 <p>Nothing but empty air round me now and them 
-scudding clauds seem softly sinful. Night done lost its magic. I
+scudding <sic>clauds</sic> seem softly sinful. Night done lost its magic. I
 got a wild head on me to act this way.</p>
 <p>I catch this clinging scent on my hands where I done
 pawed at her drag. L got to admit it. I'm a freap with
@@ -2634,7 +2630,7 @@ make a wish, that I going to get to this lady-squaw and
 love her up a storm.</p>
 <p>Been a mighty long day. It’s like I ready to goof off a
 while.
-</p></div><div><head >Chapter Fourteen</head>
+</p></div><div type="chapter"><head >Chapter Fourteen</head>
 <p>NEXT a.m. I tells Moms T given work the go-by. She
 take it I got the nadges and tuck me in with madmen
 water-bottles and such. I explain to her this be not the
@@ -2686,7 +2682,7 @@ come into orbit with her L maybe quit my turf without a
 brain-user, but it's like I need to hang around in order
 to eyeball her one more time. It always be a rave to meet
 a lady who mighty different from the mob. I just done
-met one, yso’s I not quitting the scene till I visited that
+met one, so’s I not quitting the scene till I visited that
 ball-room again.</p>
 <p>Now I plainly got to pass the day someways. I not
 getting to that coffee-bar again cos I got no particular
@@ -2703,13 +2699,13 @@ disapproving citizens.</p>
 at me, squat at this table like she never eared nothing.
 Lucky for me that table got one seat not taken. Zoots!
 I get in there. Send these madmen knives and forks dying
-in my man-sized effort to reach her. “You never tel] me
+in my man-sized effort to reach her. “You never tell me
 your handle,’' I say. She trying hard to give me the igg,
 <pb n="104"/>
 but then this male she got rave up to (he table looking
-choked. “Where’s mv seat. Pal?” she ask.</p>
+choked. “Where’s my seat, Pat?” she ask.</p>
 <p>Now I know Pat be the handle of the sweet lady who
-keeping my mind enlivened. Pal bug about her like she
+keeping my mind enlivened. Pat bug about her like she
 looking for another table, but she not catch a spare place.
 Just then the other two people at our table prepared to
 leave, so’s her mate grab a chair. How groovy! We got
@@ -2718,7 +2714,7 @@ this little table all to ourselves.</p>
 “You got your wheel with you to-day?” I ask her. She
 consent to jive at me then and say, “Daddy, I going to
 fetch the Law if you carry on so.”</p>
-<p>I knows now I never goina to win her round. Cos when
+<p>I knows now I never going to win her round. Cos when
 a witch gone that far against you in front of a turf-mate,
 it plainly past the point of return. I not going to let her
 see my feelings caught the nadges. so I play the big deal.
@@ -2731,14 +2727,14 @@ me this slap in the head. I catch her sleeve but she got
 these nasty little judo tricks on her, and I soon finds 
 myself on the floor.</p>
 <p>Everybody eyeballing me, belly-racking. This 
-waitresswitch move at me and ask Pat the happenings. I not hang
+waitress-witch move at me and ask Pat the happenings. I not hang
 around. Truly I did never feel so small as when I craw!
 out into that street.</p>
 <p>She treated me like dirt, just cos I used the wrong
 <pb n="105"/>
 approach. But there’s no anger left in me—just sadness,
 ’cos I loved in vain, and aft that rot.
-</p></div><div><head >Chapter Fifteen</head>
+</p></div><div type="chapter"><head >Chapter Fifteen</head>
 <p>NOW it so happen I did quit the nest and bust out on
 my own account. I were a tramp more than a regular beat,
 cos I didn’t do no balling with witches and such, nor get
@@ -2757,7 +2753,7 @@ beyond the pale.</p>
 <p>I gets this groovy type cellar going mighty cheap and
 plays me my git-box there much times.</p>
 <p>Now of all the peoples I ever done met I clearly never
-Going to foreet Beat-heart. Now I never see’d this witch
+Going to forget Beat-heart. Now I never see’d this witch
 with jam eyeballs, you understand. This is not because'
 she an ugly hag or anything. But it just so happen she not
 <pb n="106"/>
@@ -2879,7 +2875,7 @@ elation when you can’t feel nothing no more?</p>
 permanently gone for all I knows. I leave her on that. I
 plenty lucky to be still in one piece.
 <pb n="110"/>
-</p></div><div><head >Chapter Sixteen</head>
+</p></div><div type="chapter"><head >Chapter Sixteen</head>
 <p>IT been plenty long till I eyeball that mad-witch again.
 I been trying to contact her, not for a double or anything,
 just ’cos I got nothing else to do. Visited that park effort
@@ -2922,7 +2918,7 @@ She off at that.</p>
 sleeve and say, “I double you at noon tomorrow down
 the park.” She don’t say nothing, just rave on her way,
 like the lone soul she is.
-</p></div><div><head >Chapter Seventeen</head>
+</p></div><div type="chapter"><head >Chapter Seventeen</head>
 <p>I REACH that park like I trying to give gloom the go-by.
 I just kind of hoping she be there and all, though I not
 really think she will be. Then wham, I eyeball her head
@@ -3005,7 +3001,7 @@ jive me. “Which prove to me I’ve got what I want.” But
 it’s a fact that she never belly-racked for two years
 neither. Cos where there’s no blues there not going to be
 any balls either.</p>
-<p>She keepTelling herself she not going to care no more,
+<p>She keep telling herself she not going to care no more,
 but then she’d get asked to a frolic-pad and she’d flip
 at it. Things like that. She manage to stop herself in time
 but the brain-user were there, Like when she eyeball some
@@ -3045,13 +3041,13 @@ I going to be mighty disappointed if I don’t get to be the
 leader-stud now, cos some witch-face put the brain-user
 on me.
 <pb n="116"/>
-</p></div><div><head >Chapter Eighteen</head>
+</p></div><div type="chapter"><head >Chapter Eighteen</head>
 <p>I was mighty pleased to receive this madmen pen-effort
 from the beat gang. It read thus:</p>
 <p>The Frolic Pad</p>
 <p>Chelsea,</p>
 <p>Endsville.</p>
-<p>Gentle sasser,</p>
+<p>Gentle gasser,</p>
 <p>One of our lady-beats who got the handle, Bumpkin,
 did clue us in that you make a hip Chief. Daddy, we
 got to eyeball you plenty before giving you the grade.
@@ -3102,7 +3098,7 @@ I feels my hand being passed through this candle flame.
 Then someone else tip this juice over my fuse-box and
 jive, “Him who cross your path, Big Chief, got to bundle
 the entire mob. Lest you fall from grace, you the 
-leaderstud from now on in.”</p>
+leader-stud from now on in.”</p>
 <p>They remove the scarf then, and I catch the scene again.
 Nothing like this ever happened to me before. That it
 didn’t.</p>
@@ -3143,7 +3139,7 @@ goofed off ourselves.</p>
 <p>Got to pile up some Z’s. I hit my pad and that’s it. I
 reach my slab and start adding Iambs before my head hit
 the feather bank.
-</p></div><div><head >Chapter Nineteen</head>
+</p></div><div type="chapter"><head >Chapter Nineteen</head>
 <p>We did have many a high time together. That we did.
 Sometimes we’d get these crazy bursts of elation when we
 defy the Law and all. We’d grab us these broken 
@@ -3176,7 +3172,7 @@ many sources and catch this locomotive to the coast.
 Daddy, what a fine time we had there.</p>
 <p>Soon as we reach the scene I Hip. That crazy Sun on
 them little waves is plainly enlivening. Then there’s all
-them zooty sands, and rock-pools with madmen star-tish
+them zooty sands, and rock-pools with madmen starfish
 in and all. We buys us these shrimping nets and lives on
 health foods which we do cook ourselves.</p>
 <p>We got these crazy tents which we do pitch come 
@@ -3206,7 +3202,7 @@ one crazy walk back. But this softly exalt me, cos it’s
 like I got new life and all.</p>
 <p>Lift my calves and turn my fuse-box tent-wise.
 <pb n="122"/>
-</p></div><div><head >Chapter Twenty</head>
+</p></div><div type="chapter"><head >Chapter Twenty</head>
 <p>WE exploring them sands one time when we discovers us
 a madmen cave. This enliven us no end. We get in there
 and case the joint. Got to get us some boxes and candles,
@@ -3259,7 +3255,7 @@ I got a soft disposition, but that the way I feel.</p>
 <p>Going to give my youth a few months more merriment,
 then I guess I going to tune out.
 <pb n="124"/>
-</p></div><div><head >Chapter Twenty-One</head>
+</p></div><div type="chapter"><head >Chapter Twenty-One</head>
 <p>WE not been here long, when zoots, we catch this 
 madmen mob who plainly rave from Demonsville. It choke
 our systems to clash with them this way.</p>
@@ -3290,7 +3286,7 @@ rushing that cat, not caring if he send me to Tombsville
 direct. I got a real fury on me, cos I bust his zip-gun like
 nobody's business, beat him over the head with it.</p>
 <p>Lucky for us we got more men in our mob and we do
-shove them punks fair otf the scene.</p>
+shove them punks fair off the scene.</p>
 <p>This turf-mate who catch a shot in him, feeling highly
 nadgy, but it only been in his arm. We lift him to the
 cave. One of our witches tear up a shirt and mend him
@@ -3318,7 +3314,7 @@ plainly could have battered their silly fuse-boxes total,
 <pb n="126"/>
 but we not ride with violence, so we tunes out, leaves
 them to their own scat.
-</p></div><div><head >Chapter Twenty-Two</head>
+</p></div><div type="chapter"><head >Chapter Twenty-Two</head>
 <p>SUMMER practically dying now. It been a great frolic
 I reckons. Then one day we got this slow drag busting out
 the cave, when Tom-cat rave in on us with some dame
@@ -3363,7 +3359,7 @@ the igg. Be it I got some madmen jinx on me or
 something? It been long I know since I seen my love-heart,
 Pat, but her image haunt me yet.
 <pb n="128"/>
-</p></div><div><head >Chapter Twenty-three</head>
+</p></div><div type="chapter"><head >Chapter Twenty-three</head>
 <p>WE been back the City long time when we catches that
 lady again. She give her handle as Fenella and tell us she
 plainly wish to orbit our turf. That cat-face try to make
@@ -3384,13 +3380,13 @@ the pad, and caught plenty sour apples which I raved
 back with me. It take me long to register the fact, cos
 it's like it ain't real.</p>
 <p>I'm highly soaked with juice when this knock sound at
-my pane. I open up. Fenella hit the sene. I got no time
+my pane. I open up. Fenella hit the <sic>sene</sic>. I got no time
 for gasser-ladies right now—offer her the bottle but she
 tell me it give her the nadges or something.</p>
 <p>I not recall much then, except I think I did take her
 out the turf where we did bug about like nobody's 
-busi<pb n="129"/>
-ness. Then I acted the freap and nodded off back her pad
+<pb n="129"/>
+business. Then I acted the freap and nodded off back her pad
 which raise her land-lady’s eyebrows sky high.</p>
 <p>The brain-user hit me keen and sharp. I see it clear I
 going to return to Moms. I been waiting on tuning the
@@ -3405,18 +3401,18 @@ life and I plainly must return to my mournful Moms.”</p>
 “Daddy, wish you to return some day?” they ask me. I
 tell them I not got a strict schedule but they better not
 hold the place open for me.</p>
-<p>They give me the fareful frolic then. Black out my 
+<p>They give me the <sic>fareful</sic> frolic then. Black out my 
 eyeballs with this crazy scarf, and it’s like before, only there’s
 no elation in me now, just deep blue tones seething in my
 soul. Juice is tipped over my mane again and I hear 
 someone say, “Daddy, may you live in total peace. May your
 path be lit with madmen fire-balls as you do rave to 
-Endsville.” This kind of reach me. It plenty corn really, but I
+—
 feels them tear-taps going to leak on me any moment.</p>
 <p>Then I’m out in the street, don’t recall much about
 nothing. These gassers is holding my arms. Guess we
 making for the locomotive, cos I aiming on reaching
-Moms this a.m. I catch Fenelia at the rail-road. Tune the
+Moms this a.m. I catch Fenella at the rail-road. Tune the
 scene out with plenty good tidings.</p>
 <p>Imagine, I never going to eyeball my sister no more. I
 <pb n="130"/>
@@ -3447,16 +3443,16 @@ her. That I know.</p>
 got a zooty frame, likewise brain. Yet love is funny. Cos
 you sees them you can’t have and you loses your sweet
 mind to them; while them who willing to be your squaw,
-move you not. Guess I never going to know the 
-reasonpuking punk that I am.
+move you not. Guess I never going to know the reason —
+puking punk that I am.
 <pb n="131"/>
-</p></div><div><head >Chapter Twenty-four</head>
+</p></div><div type="chapter"><head >Chapter Twenty-four</head>
 <p>MOMS making with the tear scene as I enters the pad. It
 tough for her I reckons, but she getting me back now.
 Big deal!</p>
 <p>I move at her and peck her cheek. Just holds her while
 she cry some more, then she tell me it been plenty long
-since she eyballed my head.</p>
+since she <sic>eyballed</sic> my head.</p>
 <p>It follows that now I’m back my pad I needs must catch
 a job. One thing which enliven my brain is that there be
 no need for me to enter the Army now, cos that would
@@ -3485,7 +3481,7 @@ graffy time he had.</p>
 Ask if he entirely recovered and such. Even wish him luck
 in the future, and hope it never happen again. Now that
 boss-man may plainly have reckoned he being mighty kind,
-but the way I ses it, he might just as well have told him
+but the way I <sic>ses</sic> it, he might just as well have told him
 he wished him luck in the future, and that it better never
 happen again, cos he going to get jilted proper if it do.</p>
 <p>My turf-mate naturally keep recalling his graffy time
@@ -3495,7 +3491,7 @@ take extra trouble over you and all, you plainly being
 reminded you a clinker.</p>
 <p>Likewise you got to have these crazy references behind
 you all the time. Now this be softly scat. It mean that
-supposing you get jilted out your lirst job at age 15, it
+supposing you get jilted out your first job at age 15, it
 going to appear on your card for time eternal. Like 
 someone tell me once, “You may well wish to start again,
 but you can never wipe out your record. It all happened
@@ -3507,7 +3503,7 @@ to be mighty difficult, cos employers is going to ask what
 T been doing the past few years. I see it clearly. I going
 to have a tough journey back.
 <pb n="133"/>
-</p></div><div><head >Chapter Twenty-five</head>
+</p></div><div type="chapter"><head >Chapter Twenty-five</head>
 <p>THEY gets me this job on a building site. Carrying these
 madmen bricks about and such. It highly blacken me, and
 I not reckon my mates one lump of bread. They bull-jive
@@ -3558,14 +3554,14 @@ thing you can think of be measured m time You got to
 rave dates and ages on every crappy bit of red tape in
 sight.
 <pb n="135"/>
-</p></div><div><head >Chapter Twenty-six</head>
+</p></div><div type="chapter"><head >Chapter Twenty-six</head>
 <p>I GIVE that crazy brick-carrying the igg after short time.
 Moms not too graffy cos she thinks jobs is easier 
-comeby than is actually the case. I tell her I’m aiming on 
+come-by than is actually the case. I tell her I’m aiming on 
 catching the City turf a while, going to take me a vacation with
 my former gassers.</p>
 <p>I hit the scene with high spirits—make for the 
-frolicpad. When I reach it I see them shutters at the panes.
+frolic-pad. When I reach it I see them shutters at the panes.
 Nobody living there now. Tough! I march the manor all
 a.m. but it seem my mob moved their cans to other 
 territory. I move into this little park then, when wham, I 
@@ -3576,7 +3572,7 @@ Only it were me she give a bundle to before.</p>
 <p>This stud plainly the hipster though, cos he seem to be
 getting the best of Beat-heart. I rave at them, knock that
 guy off her throat. Zoots! She not as zippy as when I
-catch her muck-sprading boot. This punk quit the scene
+catch her <sic>muck-sprading</sic> boot. This punk quit the scene
 at that, aiming mean words at our heads.</p>
 <p>Beat-heart got this real pale face on her, and it’s like
 she got a dose of the nadges or something, cos she 
@@ -3614,7 +3610,7 @@ present. “Noble heart-face,” I yell at her. “The time has
 come for me to return to my pad.” She don’t say nothing
 and it only choke me up, so’s I wing off.
 <pb n="137"/>
-</p></div><div><head >Chapter Twenty-seven</head>
+</p></div><div type="chapter"><head >Chapter Twenty-seven</head>
 <p>THINGS start working out more groovy back the local
 scene. I even give gloom the go-by. I catch a job in this
 old stud’s bookshop. It’s kind of nice and quiet there. He
@@ -3703,12 +3699,12 @@ moons.
 <pb n="140"/>
 We reach my pad then, and I bust out the wheel. Ain’t
 trying nothing this time, cos I’m still in danger of being
-slapped down. “Sweet Dr earns ville,” I tell her and tune
+slapped down. “Sweet Dreamsville,” I tell her and tune
 out.</p>
 <p>Got a mighty restless disposition on me that night.
 Don’t goof off till grey light is at my pane. Keep thinking
 how I going to make with the first love-sign and all.
-</p></div><div><head >Chapter Twenty-eight</head>
+</p></div><div type="chapter"><head >Chapter Twenty-eight</head>
 <p>BEFORE my lids barely done hooded. Moms at the
 door hollering I going to be late at work if I don’t rave
 it up. Glut these madmen bread-crumbs and that’s it.
@@ -3747,7 +3743,7 @@ sticking the wrong binding on books and all My old stud
 play the true gasser, cos he just belly-rack and tell me to
 give love the igg this p.m. or I going to ruin his entire
 book-shop.
-</p></div><div><head >Chapter Twenty-Nine</head>
+</p></div><div type="chapter"><head >Chapter Twenty-Nine</head>
 <p>I WAKE up Saturday a.m. to hear the entire population
 of Birdland making with musics. It’s kind of chilly to
 <pb n="142"/>
@@ -3861,10 +3857,10 @@ soft. Then it’s like my eager lips get back a second time.
 Then she’s pressing at me. I get this tingle deep down.
 Electricity pass between us. Our lips like two live wires
 passing the current. My soul ask no more. I’m total
-exatled. I been born for this. That I know.</p>
+<sic>exatled</sic>. I been born for this. That I know.</p>
 <p>Them dreamy lights wink at us as we wheel pad-wise.
 I keep bugging her sweet face in the moonlight. She going
-to be my squaw from now on in. Yeahl We found noble
+to be my squaw from now on in. Yeah! We found noble
 bliss.</p>
 <p>I goof off then, get this wild head on me. Going to
 marry that lady-witch yet. Before I registers the fact she
@@ -3874,7 +3870,7 @@ leave her side. Daddy, it’s like blasting Endsville with an
 H-Bomb. But the day is past. It has to be. I give her this
 loving hint and flee the scene. I enter my pad like it’s
 Cloud 9 I’m stepping at.
-</p></div><div><head >Chapter Thirty</head>
+</p></div><div type="chapter"><head >Chapter Thirty</head>
 <p>I RISE real early next day, cos I’m seeing my lady again.
 Maybe we take in a movie or something. I’m jumpy as a
 kitten and Moms give me this corn approach. “Son, are
@@ -3921,7 +3917,7 @@ yet I knows it got to end that way. “Gentle nod,
 loveheart,” I tell her, and move into my pad, catch my 
 madmen cradle.
 <pb n="148"/>
-</p></div><div><head >Chapter Thirty-One</head>
+</p></div><div type="chapter"><head >Chapter Thirty-One</head>
 <p>I GETS this madmen letter come at me next a.m. I not
 recall giving no-one my pad-down, but it appear I must
 have. I pop it open. Bug the contents.</p>
@@ -3976,8 +3972,6 @@ bowl squatting behind, been trying to catch the seat next
 to her. They plainly been planning on an enlivening jive
 session. This old witch screw round, rave at her turf-mate
 <pb n="150"/>
-L</p>
-<p>
 over the seat. It plain to see they getting kicks like wow,
 jiving scat about these witch-women who pad in their
 manor. Ain’t it pitiful to see dames this way?</p>
@@ -3992,7 +3986,7 @@ mob and all. Them were the rave events.</p>
 <p>Peoples get spoiled when they forgets what Endsville
 feel like. I reckon that’s what wrong with all them big
 boss-men and such, who keep threatening with plenty big
-bundles. Maybe they stll searching for Endsville. I know
+bundles. Maybe they <sic>stll</sic> searching for Endsville. I know
 not why they dig this thing called power. All the power I
 ever going to require, is what’s needed to catch my love
 heart to me and mate her legal.</p>
@@ -4034,7 +4028,7 @@ crazy hangover this ways. It taken me long to dig the path
 of true gassers, and all that rot, but I’m in there now.
 I’m gung ho to stay there likewise.
 <pb n="152"/>
-</p></div><div><head >Chapter Thirty-two</head>
+</p></div><div type="chapter"><head >Chapter Thirty-two</head>
 <p>COME the evening I catch my heart at the ball-room, it's
 like I been with her from way back. Groovy times are
 upon me. I keep at her, “Lady, you thinking of playing
@@ -4056,7 +4050,7 @@ matter be. I going to get to her yet.</p>
 <p>“Cool it, chicken,” I tell her. “You going to get my
 squaw in a green disposition.” Then it’s like I recalls her
 face. I had doubles with this witch. Yeah! She that 
-Mimicow, who tell me I hail from Smutsville that time. She
+Mimi-cow, who tell me I hail from Smutsville that time. She
 that crazy stud-hater from way back. “What game she at
 now?” I thinks.</p>
 <p>Pat get in the frolic then. “Heart, I know not your 
@@ -4163,22 +4157,21 @@ consolation.</p>
 <p>I got to really reach Pat’s soul after this. That I know.
 Start thinking up this crazy little poem to send her and
 all. It go thus:</p>
-<p>Gentle heart, forgive my head,</p>
-<p>Cos that witch-face make me see red,</p>
-<p>I know’d her way back, long ago,</p>
-<p>But now she nothing. That is so.</p>
-<p>I love your heart, and yours alone,</p>
-<p>From now until vou an old crone.</p>
-<p>*</p>
-<p>Your madmen beauty never die
-For me. Your kisses make me siah.</p>
-<p>You flip my lady, like the most,</p>
-<p>You blast my soul, I dig to boast
-That you are mine.</p>
+<l>Gentle heart, forgive my head,</l>
+<l>Cos that witch-face make me see red,</l>
+<l>I know’d her way back, long ago,</l>
+<l>But now she nothing. That is so.</l>
+<l>I love your heart, and yours alone,</l>
+<l>From now until you an old crone.</l>
+<l>Your madmen beauty never die</l><l>
+For me. Your kisses make me sigh.</l>
+<l>You flip my lady, like the most,</l>
+<l>You blast my soul, I dig to boast</l><l>
+That you are mine.</l>
 <p>Going to rave that at her crazy pad. It better bring
 pleasing results or the nadges get to my head.
 <pb n="157"/>
-</p></div><div><head >Chapter Thirty-three</head>
+</p></div><div type="chapter"><head >Chapter Thirty-three</head>
 <p>I DON’T hear from her for some time, and I ain’t got it
 in mind to write another poem. Then like a gift from
 Endsville, she move at my pad this eve. Noble Daddy!
@@ -4239,7 +4232,7 @@ present. That’s highly plausible, cos her lips is moving on
 mine.</p>
 <p>Wham! If anybody looking for me, tell the cat I’m at
 Starsville Hotel, Utopia Manor, Rainbow’s End.</p></div></div></body>
-<back><div>
+<back><div type="liminal">
    <pb n="[999]"/><head>ABOUT THE BOOK
 </head><p>The Publishers believe that there is a sad
 lack of books on the market dealing with,
