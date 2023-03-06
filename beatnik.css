@@ -1,0 +1,143 @@
+
+
+@page {
+  size: A4 portrait;
+}
+
+@page :left {
+  margin-left: 3cm;
+}
+@page :right {
+  margin-left: 4cm;
+}
+
+@page:right{ 
+  @bottom-left {
+    margin: 10pt 0 30pt 0;
+    border-top: .25pt solid #666;
+    content: string(theWork) ;
+    font-size: 12pt;
+    color: #333;
+  }
+  @top-right {
+    content: string(doctitle);
+    margin: 30pt 0 10pt 0;
+    font-size: 12pt;
+  }
+}
+
+teiHeader {
+ display:none;
+ 
+}
+
+teiHeader>fileDesc>titleStmt>title {
+ string-set: theWork content()
+}
+
+head {
+ display:block;
+ text-align:center; 
+ font-size: large;
+ font-variant: small-caps; 
+}
+
+div[type="part"]{
+  page-break-before: always;
+  }
+  
+div[type='part']>head:first-child {  
+ padding-top: 4cm;
+}
+  
+div[type='part']>head{  
+ padding-top: 1cm;
+}
+
+/*  
+ div[type="chapter"]{
+  page-break-before: always;
+  }
+*/  
+  
+div[type='chapter']>head {  
+  page-break-after: avoid;
+  string-set: doctitle content();
+  padding-top: 2cm ;
+  padding-bottom: 1cm;
+}
+
+
+@page:right{
+  @bottom-right {
+    content: counter(page);
+  }
+}
+
+@page:left{
+  @bottom-left {
+    content: "Page " counter(page) " of " counter(pages);
+  }
+}
+
+titlePage {
+ 
+  page-break-after: always;
+}
+
+docTitle>titlePart {
+ display:block;
+ text-align:center; 
+ font-size: 48pt;
+ padding-top:2cm;
+ padding-bottom: 1cm;
+}
+
+docAuthor {
+ display:block;
+ text-align:center;  
+ padding-bottom:2cm;
+}
+
+titlePart {
+ display:block;
+ text-align:center; 
+ font-size: large;
+}
+
+ 
+body{  
+    padding:0;
+    font-family:Verdana, Tahoma, Geneva, Arial, Helvetica, sans-serif;
+}
+
+div[type='liminal']>p{
+ display:block;
+ text-align:center;
+ padding-bottom:3mm;
+}
+
+p+p {
+ display:block;
+   margin: 0;
+   padding-top: 4mm;;
+   text-indent: 6mm;
+}
+
+
+list {
+ padding-bottom: 6mm;
+}
+
+item>label{
+   font-style:italic;
+  }   
+ 
+item {
+ display:block;
+}
+
+pb {
+ content: " [p. " attr(n) "] ";
+ color:gray;
+}
